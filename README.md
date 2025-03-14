@@ -21,9 +21,13 @@ Este proyecto es un sistema web de gestión bancaria desarrollado para el Banco 
 🏆 Funcionalidades Principales
 
 ✔ Gestión de Cuentas Bancarias: Creación, consulta, depósitos, retiros y transferencias.
+
 ✔ Gestión de Usuarios: Administración de clientes, cajeros y gerentes.
+
 ✔ Administración de Créditos: Solicitud y aprobación de préstamos.
+
 ✔ Seguridad y Roles de Usuario: Acceso basado en permisos según el rol asignado.
+
 ✔ Interfaz Web Amigable: Uso de JSF para formularios y validaciones.
 
 🤝 Integrantes:
