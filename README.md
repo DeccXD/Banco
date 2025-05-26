@@ -29,7 +29,9 @@ Este proyecto es un sistema web de gestión bancaria desarrollado para el Banco 
 ✔ Seguridad y Roles de Usuario: Acceso basado en permisos según el rol asignado.
 
 ✔ Interfaz Web Amigable: Uso de JSF para formularios y validaciones.
+
 ⚙️ Instalación
+
 git clone https://github.com/tu-usuario/DWF2.git
 # Edita src/main/resources/application.properties con tu DB
 mvn clean install
